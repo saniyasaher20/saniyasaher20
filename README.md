@@ -10,7 +10,7 @@
 <div size='20px'> Hi! My name is Saniya Saher. Thank You for taking the time to view my GitHub Profile (-: smile :-)
 </div>
 
-<h2 style="display:flex; flex-direction:row;align-items:center"> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 15%> </h2> 
+<h2 style="display:flex; flex-direction:row;align-items:center"> About Me &nbsp;&nbsp; <img src ="img/aboutme.png" width ="70px" > </h2> 
 
 <img width="35%" align="right" alt="Github" src="img/codingGirl.png" />
 
@@ -46,11 +46,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniyasaher20&theme=tokyonight" />
 </a>
 
- <br /> <br />
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '40px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
-<br>
+<br><br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
