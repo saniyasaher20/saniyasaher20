@@ -10,7 +10,7 @@
 <div size='20px'> Hi! My name is Saniya Saher. Thank You for taking the time to view my GitHub Profile (-: smile :-)
 </div>
 
-<h2 style="display:flex; flex-direction:row;align-items:center"> About Me <img src = "img/aboutme.png" width ="70px"> </h2> 
+<h2 style="display:flex; flex-direction:row;align-items:center"> About Me &nbsp;&nbsp; <img src ="img/aboutme.png" width ="70px" > </h2> 
 
 <img width="35%" align="right" alt="Github" src="img/codingGirl.png" />
 
