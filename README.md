@@ -19,8 +19,6 @@
 
 - 🌱 I’m currently learning Bootstrap 5 
 
-- 👯 I’m looking to collaborate on  
-
 - 💬 Talk to me about Freelancing Opportunities & Open Source 
 
 <br />
