@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on Front-End projects
 
-- 🌱 I’m currently learning Bootstrap 5 
+- 🌱 I’m currently learning React.js and Next.js
 
 - 💬 Talk to me about Freelancing Opportunities & Open Source 
 
